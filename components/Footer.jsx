@@ -6,10 +6,10 @@ const Footer = () => {
     <>
       <footer id="contact" className="footer-section" style={{ color: "#fff" }}>
         <div className="imgHolder">
-          <img
+          {/* <img
             src="./images/logo-main.webp"
             alt="Hack the space Hackathon planet"
-          />
+          /> */}
         </div>
         <div className="docs">
           <h3 className="footer-title">Explore</h3>
@@ -17,10 +17,10 @@ const Footer = () => {
           <ul>
             <li>
               <Link
-                href="https://s1.hackthespace.co/"
-                target="https://s1.hackthespace.co/"
+                href="https://www.hnccbits.com/"
+                target="https://www.hnccbits.com/"
               >
-                Season 1.0
+                HnCC BITS
               </Link>
             </li>
             <li>
@@ -28,14 +28,7 @@ const Footer = () => {
                 Team
               </Link>
             </li>
-            <li>
-              <Link
-                href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"
-                target="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"
-              >
-                MLH Code of Conduct
-              </Link>
-            </li>
+            
           </ul>
         </div>
 
@@ -44,7 +37,7 @@ const Footer = () => {
             <h3 className="footer-title">Social Handles</h3>
 
             <div className="social-links">
-              <Link href="https://instagram.com/hack.the.space" target="_blank">
+              <Link href="https://www.instagram.com/p/DFUnR6LJIkb/?igsh=bHpiOG4xaHp6eWNv" target="_blank">
                 <svg
                   name="logo-instagram"
                   xmlns="http://www.w3.org/2000/svg"
@@ -56,7 +49,7 @@ const Footer = () => {
                 </svg>
               </Link>
               <Link
-                href="https://www.linkedin.com/company/hackthespace/"
+                href="https://www.linkedin.com/posts/hnccbits_hnccbits-codecamp3-learnandgrow-activity-7289559085207760896-6qIw?utm_source=share&utm_medium=member_android"
                 target="_blank"
               >
                 <svg
@@ -68,7 +61,7 @@ const Footer = () => {
                   <path d="M444.17 32H70.28C49.85 32 32 46.7 32 66.89v374.72C32 461.91 49.85 480 70.28 480h373.78c20.54 0 35.94-18.21 35.94-38.39V66.89C480.12 46.7 464.6 32 444.17 32zm-273.3 373.43h-64.18V205.88h64.18zM141 175.54h-.46c-20.54 0-33.84-15.29-33.84-34.43 0-19.49 13.65-34.42 34.65-34.42s33.85 14.82 34.31 34.42c-.01 19.14-13.31 34.43-34.66 34.43zm264.43 229.89h-64.18V296.32c0-26.14-9.34-44-32.56-44-17.74 0-28.24 12-32.91 23.69-1.75 4.2-2.22 9.92-2.22 15.76v113.66h-64.18V205.88h64.18v27.77c9.34-13.3 23.93-32.44 57.88-32.44 42.13 0 74 27.77 74 87.64z" />
                 </svg>
               </Link>
-              <Link href="https://twitter.com/HackTheSpace_" target="_blank">
+              <Link href="https://x.com/hnccbits/status/1883793909656223853?t=w-cLtPxF02u9yca6Hd3Sqw&s=19" target="_blank">
                 <svg
                   name="logo-twitter"
                   xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +71,7 @@ const Footer = () => {
                   <path d="M496 109.5a201.8 201.8 0 01-56.55 15.3 97.51 97.51 0 0043.33-53.6 197.74 197.74 0 01-62.56 23.5A99.14 99.14 0 00348.31 64c-54.42 0-98.46 43.4-98.46 96.9a93.21 93.21 0 002.54 22.1 280.7 280.7 0 01-203-101.3A95.69 95.69 0 0036 130.4c0 33.6 17.53 63.3 44 80.7A97.5 97.5 0 0135.22 199v1.2c0 47 34 86.1 79 95a100.76 100.76 0 01-25.94 3.4 94.38 94.38 0 01-18.51-1.8c12.51 38.5 48.92 66.5 92.05 67.3A199.59 199.59 0 0139.5 405.6a203 203 0 01-23.5-1.4A278.68 278.68 0 00166.74 448c181.36 0 280.44-147.7 280.44-275.8 0-4.2-.11-8.4-.31-12.5A198.48 198.48 0 00496 109.5z" />
                 </svg>
               </Link>
-              <Link href="https://discord.gg/FJKTSgdxPX" target="_blank">
+              <Link href="https://www.facebook.com/share/15XMcPymty/" target="_blank">
                 <svg
                   name="logo-discord"
                   xmlns="http://www.w3.org/2000/svg"
@@ -111,14 +104,14 @@ const Footer = () => {
           <h3 className="footer-title">Contact Us</h3>
 
           <div className="contactList">
-            <Link href="mailto:support@hackthespace.co" target="_blank">
-              support@hackthespace.co
+            <Link href="hnccbits@gmail.com" target="_blank">
+            hnccbits@gmail.com
             </Link>
           </div>
         </div>
       </footer>
       <div className="footer-ke-neeche">
-        <p>Made with ❤️ by the Team HackTheSpace</p>
+        <p>Made with ❤️ by the Team HACKATRON</p>
       </div>
     </>
   );
