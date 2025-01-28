@@ -20,14 +20,14 @@ const Landing = () => {
       </div>
       <div className="logo-div">
         <div className="logo-home">
-          <Image
+          {/* <Image
             src="/images/logo-main.webp"
             alt="Hack the space Hackathon Constellation"
             priority={true}
             sizes="100%"
             width={100}
             height={100}
-          />
+          /> */}
         </div>
         <Typewriter />
         <Countdown />

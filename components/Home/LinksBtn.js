@@ -4,7 +4,7 @@ const DevfolioBtn = () => {
   return (
     <div className="butHolder">
       <button type="button" className="Btn zinc-bg">
-        <a href="https://bit.ly/HTS-PRE" target="https://bit.ly/HTS-PRE">
+        {/* <a href="https://bit.ly/HTS-PRE" target="https://bit.ly/HTS-PRE">
           <div className="gradient-mask black-bg"></div>
 
           <Image
@@ -17,10 +17,10 @@ const DevfolioBtn = () => {
           />
 
           <span className="text">Pre-Registration</span>
-        </a>
+        </a> */}
       </button>
       <button type="button" className="Btn zinc-bg">
-        <a href="https://discord.gg/FJKTSgdxPX" target="_blank">
+        {/* <a href="https://discord.gg/FJKTSgdxPX" target="_blank">
           <div className="gradient-mask blue-bg"></div>
 
           <svg
@@ -34,7 +34,7 @@ const DevfolioBtn = () => {
           </svg>
 
           <span className="text">Discord</span>
-        </a>
+        </a> */}
       </button>
     </div>
   );

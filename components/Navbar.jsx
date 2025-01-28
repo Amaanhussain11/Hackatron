@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="desktop-nav">
         <div className="left-heading nav-sponsor">
           <div className="letter-container">
-            <p>CENTRAL </p>
+            <p>Eastern </p>
             <p>INDIA’S</p>
           </div>
           <div className="letter-container">
