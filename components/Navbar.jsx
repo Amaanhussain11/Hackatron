@@ -22,7 +22,7 @@ const Navbar = () => {
         </div>
 
         <div className="nav-sponsor">
-          <Link href="https://bit.ly/HTS-SU" target="https://bit.ly/HTS-SU">
+          <Link href="" target="">
             Sponsor Us
           </Link>
         </div>
