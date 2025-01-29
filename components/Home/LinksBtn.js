@@ -17,7 +17,7 @@ const DevfolioBtn = () => {
           />
 
           <span className="text">Pre-Registration</span>
-        </a> */}
+        </a>
       </button>
       <button type="button" className="Btn zinc-bg">
         {/* <a href="https://discord.gg/FJKTSgdxPX" target="_blank">

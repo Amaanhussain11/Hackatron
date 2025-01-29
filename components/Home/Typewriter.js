@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const Typewriter = () => {
-  const [title, setTitle] = useState("THINK. BUILD. LAUNCH.");
+  const [title, setTitle] = useState("DESIGN. DEVELOP. CODE.");
   let idx = 0;
   let direction = 1;
   let animationDelay = 100; // milliseconds

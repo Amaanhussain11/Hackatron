@@ -22,7 +22,7 @@ const Preloader = () => {
             width="80%"
             height="100%"
           >
-            <text className="text" x="20" y="75">
+            <text className="text" x="100" y="75">
               HACKATRON
             </text>
           </svg>
