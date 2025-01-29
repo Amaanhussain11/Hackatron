@@ -1,14 +1,15 @@
-import { useEffect, useState, useMemo } from "react";
+"use client";
+import { useEffect, useState } from "react";
+import dynamic from "next/dynamic";
 import rocket from "../../utils/Rocket/rocket.json";
-import Lottie from "react-lottie-player";
+
+const Lottie = dynamic(() => import("react-lottie-player"), { ssr: false });
 
 const Countdown = () => {
   return (
-    <>
-      <div className="countdown">
-        <Lottie play loop animationData={rocket} className="rocket" speed={1} />
-      </div>
-    </>
+    <div className="countdown">
+      <Lottie play loop animationData={rocket} className="rocket" speed={1} />
+    </div>
   );
 };
 
