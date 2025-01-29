@@ -2,25 +2,27 @@ export const infoConfig = {
   about: [
     {
       id: "1",
-      data: "We are active leaders & passionate community builders who work towards a collective goal of strengthening the region to get all the tech enthusiasts and career aspirants equal opportunities and exposure as people in metro cities or all around the world get! We are determined to cultivate an ambiance where individuals can coact to creat an inclusive environment to devise, grasp and develop solutions. Our motive is not only concerned with technical but also cultural development. As a team of aspirants we welcome growth as a part of our journey.",
+      data: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor.",
     },
     {
       id: "2",
-      data: "So, here we are, organizing the biggest hackathon of central India, with enormous amounts of opportunities and capabilities to level up the community reach of the region.",
+      data: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
     },
   ],
   wihts: [
     {
       id: "1",
-      data: "HackTheSpace is an exciting 24-hour event that takes place in Bhilai,India. It is a time-limited event that encourages participants to brainstorm, develop, and present their ideas to a panel of judges. This event is designed to foster creativity, collaboration, and innovation among participants. It offers an excellent opportunity for participants to showcase their skills, network with peers, and potentially win prizes and recognition for their work.",
+      data: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer posuere.",
     },
     {
       id: "2",
-      data: "During the event, participants will work in teams to develop innovative ideas that can solve real-world problems. They will be encouraged to use their creativity, technical skills, and critical thinking abilities to develop solutions that are both practical and effective.",
+      data: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     },
   ],
   Hackathon: {
     data: "Still Confused What a Hackathon is, know more about Hackathon ",
     link: "https://news.mlh.io/what-is-a-hackathon-10-30-2023",
   },
+  
 };
+

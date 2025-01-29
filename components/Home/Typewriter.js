@@ -36,11 +36,11 @@ const Typewriter = () => {
       <p className="title" id="title">
         {title}
       </p>
-      <p style={{ marginTop: "0" }}>27 - 28th SEPTEMBER, 2024</p>
+      <p style={{ marginTop: "0" }}>27 - 28th MARCH, 2025</p>
       <p className="venue-text">
-          Shri Shankaracharya Technical Campus
+          BIRSA INSTITUTE OF TECHNOLOGY, SINDRI-DHANBAD 
           <br />
-          Bhilai, India
+          JHARKHAND, India
       </p>
     </>
   );

@@ -14,7 +14,7 @@ const Wihts = () => {
       id="wihts"
     >
       <div className="abbox">
-        <h2 className="section-title">WHAT IS HACKTHESPACE?</h2>
+        <h2 className="section-title">WHAT IS HACKATRON?</h2>
         <div className="paraDiv" style={{ zIndex: 100 }}>
           {wihts.map((d, index) => (
             <React.Fragment key={d.id}>
