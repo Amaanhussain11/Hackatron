@@ -2,7 +2,6 @@ import Link from "next/link";
 import React, { useState } from "react";
 import Image from "next/image";
 import { useRouter } from "next/router";
-import Lottie from "react-lottie-player";
 import ShootingStars from "../utils/ShootingStars.json";
 import Telescope from "../utils/Telescope.json";
 
