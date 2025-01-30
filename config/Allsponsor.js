@@ -2,168 +2,168 @@ export const Allsponsor = {
   SPNSR: [
     {
       id: "1",
-      Name: "SSTC",
-      Img: "/images/sponsor/SSTCLogo4.svg",
+      Name: "sponsor-1",
+      Img: "/images/sponsor/Comet-logo.png",
       Link: "https://www.sstc.ac.in/",
     },
     {
       id: "2",
-      Name: "AWS",
-      Img: "/images/sponsor/aws.png",
-      Link: "https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQjw9fqnBhDSARIsAHlcQYRFx7F_fi5QinYZgTtclPo16u8sVIgNLUv1e7R8cibQm9fBRsNDvmkaAqVdEALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all",
+      Name: "sponsor-2",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "3",
-      Name: "Github",
-      Img: "/images/sponsor/Github_Logo.svg",
-      Link: "https://github.com/",
+      Name: "sponsor-3",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "4",
-      Name: "Quine",
-      Img: "/images/sponsor/Quine_whiteLogo.svg",
-      Link: "https://quine.sh/",
+      Name: "sponsor-4",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "5",
-      Name: "Devfolio",
-      Img: "/images/sponsor/Devfolio_Logo-White.png",
-      Link: "https://hackthespace-1.devfolio.co/",
+      Name: "sponsor-5",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "6",
-      Name: "Polygon",
-      Img: "/images/sponsor/Polygon_Logo-White@2x.png",
-      Link: "https://polygon.technology/",
+      Name: "sponsor-6",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "7",
-      Name: "Postman",
-      Img: "/images/sponsor/Postman-logo.png",
-      Link: "https://www.postman.com/",
+      Name: "sponsor-7",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "8",
-      Name: "Filecoin",
-      Img: "/images/sponsor/Filecoin Coloured White Text-1.png",
-      Link: "https://filecoin.io/",
+      Name: "sponsor-8",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "9",
-      Name: "Solana",
-      Img: "/images/sponsor/Solana Dark.png",
-      Link: "https://solana.com/",
+      Name: "sponsor-9",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "10",
-      Name: "Replit",
-      Img: "/images/sponsor/Replit-Dark-Background.png",
-      Link: "https://replit.com/",
+      Name: "sponsor-10",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "11",
-      Name: "Taskade",
-      Img: "/images/sponsor/Taskade.png",
-      Link: "https://www.taskade.com/?via=start&fp_sid=1-g-CjwKCAjww7KmBhAyEiwA5-PUSpOYX9MNqYXdzU-6nVHp391sGuqV2cs9RwvoPbMY3JZNV5slGab-RBoCCjIQAvD_BwE",
+      Name: "sponsor-11",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "12",
-      Name: "Echo3D",
-      Img: "/images/sponsor/Echo3D.png",
-      Link: "https://www.echo3d.com/",
+      Name: "sponsor-12",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "13",
-      Name: "Axure",
-      Img: "/images/sponsor/Axure.png",
-      Link: "https://www.axure.com/",
+      Name: "sponsor-13",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "14",
-      Name: "Rosenfeld",
-      Img: "/images/sponsor/Rosenfeld-logo.png",
-      Link: "https://rosenfeldmedia.com/",
+      Name: "sponsor-14",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "15",
-      Name: "Keploy",
-      Img: "/images/sponsor/keploy-logo.png",
-      Link: "https://www.keploy.io/",
+      Name: "sponsor-15",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "16",
-      Name: "VerbWire",
-      Img: "/images/sponsor/verbWire.svg",
-      Link: "https://www.verbwire.com/",
+      Name: "sponsor-16",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "17",
-      Name: "Xyz",
-      Img: "/images/sponsor/XYZ.png",
-      Link: "https://gen.xyz/",
+      Name: "sponsor-17",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "18",
-      Name: "Give My Certificate",
-      Img: "/images/sponsor/gmcLogo.png",
-      Link: "https://givemycertificate.com/",
+      Name: "sponsor-18",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
   ],
   PRTNR: [
     {
       id: "1",
-      Name: "Bluelearn",
-      Img: "/images/sponsor/Bluelearn.svg",
-      Link: "https://www.bluelearn.in/",
+      Name: "partner-1",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "2",
-      Name: "Shutter-Stories",
-      Img: "/images/sponsor/shutter_stories.png",
-      Link: "https://instagram.com/theshutter_stories?igshid=MzRlODBiNWFlZA==",
+      Name: "partner-2",
+      Img: "/images/sponsor/Comet-logo.png",
+      Link: "",    // add link here
     },
     {
       id: "3",
-      Name: "GDSC SSTC",
-      Img: "/images/communityPartner/GDSC_SSTC.svg",
-      Link: "https://gdsc.community.dev/shri-shankaracharya-technical-campus-bhilai/",
+      Name: "partner-3",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
     {
       id: "4",
-      Name: "PolygonGuildsDurg",
-      Img: "/images/communityPartner/polygon.svg",
-      Link: "https://linktr.ee/polygondurg",
+      Name: "partner-4",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
     {
       id: "5",
-      Name: "Acetrix",
-      Img: "/images/communityPartner/ACETRIX.svg",
-      Link: "https://www.instagram.com/___acetrix___/",
+      Name: "partner-5",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
     {
       id: "6",
-      Name: "CodieGuy",
-      Img: "/images/communityPartner/Codie_Guy.svg",
-      Link: "https://linktr.ee/codie_guy",
+      Name: "partner-6",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
     {
       id: "7",
-      Name: "RCOEM",
-      Img: "/images/communityPartner/GFG_RCOEM.svg",
-      Link: "https://linktr.ee/gfgrcoem",
+      Name: "partner-7",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
     {
       id: "8",
-      Name: "CampusTechies",
-      Img: "/images/communityPartner/CT.svg",
-      Link: "https://linktr.ee/campustechies",
+      Name: "partner-8",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
 
     {
       id: "9",
-      Name: "Devstrons",
-      Img: "/images/communityPartner/devstrons.png",
-      Link: "https://twitter.com/devstrons",
+      Name: "partner-9",
+      Img: "/images/communityPartner/saturn.png",
+      Link: "",    // add link here
     },
   ],
 };

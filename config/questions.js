@@ -20,7 +20,7 @@ export const questionConfig = {
         },
         {
           id: "4",
-          Q: "What are the benefits that participants will get by attending HackTheSpace?",
+          Q: "What are the benefits that participants will get by attending Hackatron?",
           A: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         },
         {

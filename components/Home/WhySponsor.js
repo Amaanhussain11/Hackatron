@@ -86,9 +86,9 @@ const WhySponsor = () => {
             <h2>Recruitment</h2>
           </div>
           <p>
-            Sponsor HackTheSpace, connect with potential employees. Meet bright
+            Sponsor Hackatron, connect with potential employees. Meet bright
             minds from the region, interview potential candidates. Build your
-            team with HackTheSpace sponsorship.
+            team with Hackatron sponsorship.
           </p>
         </div>
 
@@ -127,7 +127,7 @@ const WhySponsor = () => {
           <p>
             Use hackathons to test new technologies and incentivize students.
             Create challenges aligned with your technology to promote it to a
-            wider audience. Drive future industries with HackTheSpace.
+            wider audience. Drive future industries with Hackatron.
           </p>
         </div>
 
@@ -153,7 +153,7 @@ const WhySponsor = () => {
           <p>
             Hackathons bring fresh ideas to challenging problems. Inspire both
             participants and your team by tackling problems in your field.
-            Exchange of ideas can lead to innovative solutions at HackTheSpace.
+            Exchange of ideas can lead to innovative solutions at Hackatron.
           </p>
         </div>
       </div>
