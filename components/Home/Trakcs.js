@@ -37,7 +37,7 @@ const Trakcs = () => {
 
   return (
     <SectionLayout Title="TRACKS" Classname={"why-sponsor-section tracks"}>
-    <h3>Though HackTheSpace is an open innovation event! Here are a few fields you can work on for your awesome hackathon projects!</h3>
+    <h3>Though Hackatron is an open innovation event! Here are a few fields you can work on for your awesome hackathon projects!</h3>
       <div className="tracks-container">
         {Track.map((track) => (
           <TrackCard {...track} key={track.id} />

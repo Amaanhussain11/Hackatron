@@ -61,7 +61,7 @@ const Glimpse = () => {
         ))}
         <div className="bottom-container">
           <Image
-            src={"/images/glimpse/glimpse_6.jpg"}
+            src={"/images/glimpse/glimpse_hackatron.jpg"}
             width={850}
             height={270}
             quality={100}
@@ -71,7 +71,7 @@ const Glimpse = () => {
             <p>Community Events</p>
           </div>
           <Image
-            src={"/images/glimpse/glimpse_1.jpg"}
+            src={"/images/glimpse/glimpse_hackatron.jpg"}
             width={450}
             height={270}
             quality={100}
