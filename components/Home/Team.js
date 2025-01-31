@@ -69,7 +69,7 @@ const Organiser = () => {
         <div className="pattern1">
           <Image
             src="/images/pattern7.svg"
-            alt="hack the space const"
+            alt=""
             width={100}
             height={100}
           />
@@ -92,7 +92,7 @@ const Organiser = () => {
                 <Image
                   className="links team-core2"
                   src={item.image}
-                  alt="Hack the space Hackathon Team"
+                  alt=""
                   width={150}
                   height={150}
                 />
@@ -114,7 +114,7 @@ const Organiser = () => {
                 <Image
                   className="links team-core2"
                   src={item.image}
-                  alt="Hack the space Hackathon Team"
+                  alt=""
                   width={150}
                   height={150}
                 />

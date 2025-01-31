@@ -15,14 +15,14 @@ const Landing = () => {
       <div className="cost1">
         <img
           src="/images/home/constellation1.png"
-          alt="Hack the space Hackathon Constellation"
+          alt=""
         />
       </div>
       <div className="logo-div">
         <div className="logo-home">
           {/* <Image
             src="/images/logo-main.webp"
-            alt="Hack the space Hackathon Constellation"
+            alt="n"
             priority={true}
             sizes="100%"
             width={100}
@@ -37,7 +37,7 @@ const Landing = () => {
       <div className="cost2">
         <img
           src="/images/home/constellation2.png"
-          alt="Hack the space Hackathon Constellation"
+          alt=""
         />
       </div>
     </section>

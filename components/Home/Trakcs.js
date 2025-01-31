@@ -20,7 +20,7 @@ const TrackCard = ({ logo, title }) => {
       <div className="centered-icon">
         <Image
           src={logo}
-          alt="Hack the space Hackathon Constellation"
+          alt=""
           priority={true}
           sizes="100%"
           width={150}

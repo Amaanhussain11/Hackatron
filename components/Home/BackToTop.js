@@ -41,7 +41,7 @@ const BackToTop = () => {
           loop
           animationData={fire}
           className={`rocketFire ${showFire ? "show" : "hidden"}`}
-          style={{ height: "100px", width: "100px", transform: "rotate(46deg)" }}
+          style={{ height: "100px", width: "100px", transform: "-rotate(45deg)" }}
           speed={1}
         />
         <Lottie
@@ -49,7 +49,7 @@ const BackToTop = () => {
           loop
           animationData={smoke}
           className={`rocketSmoke ${showFire ? "hidden" : "show"}`}
-          style={{ height: "100px", width: "100px", transform: "rotate(46deg)" }}
+          style={{ height: "100px", width: "100px", transform: "-rotate(45deg)" }}
           speed={1}
         />
       </button>
