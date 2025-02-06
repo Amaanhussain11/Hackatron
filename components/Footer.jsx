@@ -6,10 +6,6 @@ const Footer = () => {
     <>
       <footer id="contact" className="footer-section" style={{ color: "#fff" }}>
         <div className="imgHolder">
-          {/* <img
-            src="./images/logo-main.webp"
-            alt="Hack the space Hackathon planet"
-          /> */}
             <Link href="/">
               <img src="/images/logo/hackatron.png" alt="Hackatron" />
             </Link>

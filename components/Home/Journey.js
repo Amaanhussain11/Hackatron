@@ -49,21 +49,21 @@ const Journey = () => {
       <Image
         className="cloud cloudOne"
         src={"/images/built/cloudOne.svg"}
-        alt="Hack the space"
+        alt="Hack the Hackatron"
         width={80}
         height={50}
       />
       <Image
         className="cloud cloudTwo"
         src={"/images/built/cloudTwo.svg"}
-        alt="Hack the space"
+        alt="Hack the Hackatron"
         width={50}
         height={40}
       />
       <div className="stars">
         <Image
           src="/images/stars.svg"
-          alt="hack the space const"
+          alt="hack the Hackatron const"
           className="opaque8"
           width={300}
           height={300}
@@ -72,7 +72,7 @@ const Journey = () => {
       <div className="pattern3">
         <Image
           src="/images/pattern3.svg"
-          alt="hack the space const"
+          alt="hack the Hackatron const"
           className="opaque8"
           width={300}
           height={300}
@@ -81,7 +81,7 @@ const Journey = () => {
       <div className="pattern4">
         <Image
           src="/images/pattern4.svg"
-          alt="hack the space const"
+          alt="hack the Hackatron const"
           className="opaque8"
           width={300}
           height={300}

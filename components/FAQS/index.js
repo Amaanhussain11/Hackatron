@@ -34,7 +34,7 @@ const FAQS = () => {
       <div className="planet1">
         <Image
           src="/images/planet1.svg"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}
@@ -44,7 +44,7 @@ const FAQS = () => {
       <div className="planet2">
         <Image
           src="/images/planet2.svg"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}
