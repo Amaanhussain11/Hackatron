@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
 
         <link rel="canonical" href="https://hackthespace.co/" key="canonical" />
 
-        <title>Hack The Space</title>
+        <title>Hackatron</title>
         <meta
           name="description"
           content="A 24-hour immersive hackathon for all the nerds out there✨. Empowering young minds😇. Turn Ideas into Impact!🚀"
