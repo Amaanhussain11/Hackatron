@@ -61,17 +61,17 @@ const Glimpse = () => {
         ))}
         <div className="bottom-container">
           <Image
-            src={"/images/glimpse/glimpse_hackatron.jpg"}
+            src={"/images/glimpse/glimpse-7.jpeg"}
             width={850}
             height={270}
             quality={100}
           />
           <div className="content">
             <h2>50+</h2>
-            <p>Community Events</p>
+            <p>Successfull Events</p>
           </div>
           <Image
-            src={"/images/glimpse/glimpse_hackatron.jpg"}
+            src={"/images/glimpse/glimpse-8.jpg"}
             width={450}
             height={270}
             quality={100}
