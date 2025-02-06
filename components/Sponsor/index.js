@@ -14,8 +14,8 @@ const SponsorWrapper = ({ Img, Name, Link, Type }) => {
           <Image
             src={Img}
             alt={`${Name.toUpperCase()} LOGO`}
-            width={100}
-            height={100}
+            width={200}
+            height={200}
           />
         </div>
       </div>
