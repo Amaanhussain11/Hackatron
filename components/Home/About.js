@@ -23,14 +23,14 @@ const About = () => {
             <img
               className="topstar"
               src="/images/images/spaceship.png"
-              alt="Hack the space Hackathon Star"
+              alt="Hackatron Hackathon Star"
             />
           </div>
           <div className="frm about-frm">
             <img
               className="botstar"
               src="/images/About/planet.webp"
-              alt="Hack the space Hackathon Planet"
+              alt="Hackatron Hackathon Planet"
             />
           </div>
         </div>
@@ -38,7 +38,7 @@ const About = () => {
       <div className="aconst1">
         <Image
           src="/images/aconst1.webp"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}
@@ -48,7 +48,7 @@ const About = () => {
       <div className="aconst3">
         <Image
           src="/images/aconst3.svg"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}
@@ -58,7 +58,7 @@ const About = () => {
       <div className="pattern7">
         <Image
           src="/images\Constillations\Moon.svg"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}

@@ -16,7 +16,7 @@ const Timer = () => {
         <div className="timer">
           <Image
             src="/images/logo-main.webp"
-            alt="Hack the space Hackathon Constellation"
+            alt="Hackatron Hackathon Constellation"
             priority={true}
             width={200}
             height={100}

@@ -1,4 +1,4 @@
-// What is Hack The Space -> WIHTS
+// What is Hackatron -> WIHTS
 import { infoConfig } from "../../config/info";
 import React from "react";
 import Image from "next/image";
@@ -32,13 +32,13 @@ const Wihts = () => {
           <div className="frm">
             <img
               src="/images/images/pinkPlanet.png"
-              alt="Hack the space Hackathon planet"
+              alt="Hackatron Hackathon planet"
             />
           </div>
           <div className="asrt">
             <img
               src="/images/images/astronaut.png"
-              alt="Hack the space Hackathon planet"
+              alt="Hackatron Hackathon planet"
             />
           </div>
         </div>
@@ -46,7 +46,7 @@ const Wihts = () => {
       <div className="aconst1">
         <Image
           src="/images/aconst5.svg"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}
@@ -55,7 +55,7 @@ const Wihts = () => {
       <div className="pattern2">
         <Image
           src="/images/pattern6.svg"
-          alt="hack the space const"
+          alt="Hackatron const"
           className="opaque8"
           width={300}
           height={300}
