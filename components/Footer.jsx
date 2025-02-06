@@ -10,6 +10,12 @@ const Footer = () => {
             src="./images/logo-main.webp"
             alt="Hack the space Hackathon planet"
           /> */}
+            <Link href="/">
+              <img src="/images/logo/hackatron.png" alt="Hackatron" />
+            </Link>
+            <Link href="https://www.hnccbits.com/">
+              <img src="/images/logo/hncc.png" alt="Hackatron" />
+            </Link>          
         </div>
         <div className="docs">
           <h3 className="footer-title">Explore</h3>
