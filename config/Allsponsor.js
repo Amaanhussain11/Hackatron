@@ -29,63 +29,20 @@ export const Allsponsor = {
       Name: "Teqip-3",
       Img: "/images/sponsor/teqip.png",
       Link: "https://www.aicte-india.org/bureaus/rifd/teqip",
+    },
+    {
+      id: "6",
+      Name: "Microsoft Azure",
+      Img: "/images/sponsor/microsoft-azure.png",
+      Link: "https://azure.microsoft.com/en-us/",
     }
   ],
   PRTNR: [
     {
       id: "1",
-      Name: "partner-1",
-      Img: "/images/sponsor/Comet-logo.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "2",
-      Name: "partner-2",
-      Img: "/images/sponsor/Comet-logo.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "3",
-      Name: "partner-3",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "4",
-      Name: "partner-4",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "5",
-      Name: "partner-5",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "6",
-      Name: "partner-6",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "7",
-      Name: "partner-7",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
-    {
-      id: "8",
-      Name: "partner-8",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
-
-    {
-      id: "9",
-      Name: "partner-9",
-      Img: "/images/communityPartner/saturn.png",
-      Link: "",    // add link here
-    },
+      Name: "Devfolio",
+      Img: "/images/sponsor/devfolio.png",
+      Link: "https://devfolio.co/",
+    }
   ],
 };
