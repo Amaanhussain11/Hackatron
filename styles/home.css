@@ -40,15 +40,31 @@
 }
 
 .home #title {
-  margin: 2rem 0;
-  font-size: 1.6rem;
-  min-height: 39px;
-  font-weight: 600;
-  animation: blink-caret 0.75s step-end infinite;
-  border-right: 0.15em solid var(--primary-blue); /* The typwriter cursor */
+  font-size: 4.5rem;
+  font-weight: 900;
+  text-align: center;
+  color: white;
+  border-right: none;
+  background: linear-gradient(90deg, #A020F0, #8A2BE2, #FF1493);
+  -webkit-text-fill-color: transparent;
+  animation: animateText 6s infinite;
 }
 
-/* The typewriter cursor effect */
+/* Responsive Font Sizes */
+@media (max-width: 480px) {
+  .home #title {
+    font-size: 2.4rem;
+  }
+}
+
+/* Animated Text Gradient */
+@keyframes animateText {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* The GradientText cursor effect */
 @keyframes blink-caret {
   from,
   to {
@@ -83,15 +99,38 @@
 }
 
 .butHolder {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-direction: row;
-  min-width: 40%;
-  margin-top: 1rem;
-  flex-wrap: wrap;
-  gap: 1rem;
+  display: none;
 }
+
+.venue-text {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* Responsive Venue Text */
+@media (max-width: 1024px) {
+.venue-text {
+  font-size: 1.6rem;
+}
+}
+
+@media (max-width: 768px) {
+.venue-text {
+  font-size: 1.4rem;
+}
+}
+
+@media (max-width: 480px) {
+.venue-text {
+  font-size: 1.2rem;
+}
+}
+
 
 /* .butHolder iframe,
 .butHolder button {
@@ -105,21 +144,50 @@ iframe button {
 } */
 
 .Btn {
-  font-size: 1.2rem;
-  height: 44px;
-  width: 312px;
-  box-shadow: 0 0 #0000, 0 0 #0000, 0 1px 3px 0 rgb(0 0 0 / 0.1),
-    0 1px 2px -1px rgb(0 0 0 / 0.1);
-  border-radius: 0.25rem;
-  border: none !important;
-  outline: none !important;
-  transform: scale(1);
-  position: relative;
-  overflow: hidden;
+  font-size: 1.4rem;
+  height: 58px;
+  width: 280px;
+  border-radius: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  color: white;
+  background: linear-gradient(-45deg, #A020F0, #8A2BE2, #DDA0DD, #FF00FF);
+  background-size: 300% 300%;
+  animation: animateButton 4s ease infinite;
+  box-shadow: 0 0 20px rgba(138, 43, 226, 0.8);
+  transition: all 0.4s ease-in-out;
+}
+
+.Btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 25px rgba(255, 20, 147, 0.9);
+}
+
+/* Responsive Button Sizes */
+@media (max-width: 1024px) {
+  .Btn {
+    width: 240px;
+    height: 58px;
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .Btn {
+    width: 200px;
+    height: 50px;
+    font-size: 1.1rem;
+  }
+}
+
+/* Button animation */
+@keyframes animateButton {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 .Btn .icon {
@@ -220,7 +288,7 @@ iframe button {
 
 .cost2 {
   position: absolute;
-  top: 40%;
+  top: 70%;
   right: 6%;
   width: fit-content;
   animation: floaty 6s ease infinite;
@@ -283,8 +351,9 @@ iframe button {
   }
 
   .Btn {
-    height: 44px;
-    width: 312px;
+    width: 220px;
+    height: 54px;
+    font-size: 1.2rem;
   }
 
   .logo-div {
@@ -296,7 +365,7 @@ iframe button {
   }
 
   .home #title {
-    margin: 2rem 0 0.5rem;
+    font-size: 3rem;
   }
 
   .logo-div p {

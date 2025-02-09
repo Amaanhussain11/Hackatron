@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import Image from "next/image";
 import Script from "next/script";
 import Countdown from "./Countdown";
-import Typewriter from "./Typewriter";
+import GradientText from "./GradientText";
 import LinksBtn from "./LinksBtn";
 
 const Landing = () => {
@@ -29,7 +29,7 @@ const Landing = () => {
             height={100}
           /> */}
         </div>
-        <Typewriter />
+        <GradientText />
         <Countdown />
 
         <LinksBtn />
