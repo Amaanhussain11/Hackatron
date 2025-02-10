@@ -48,8 +48,8 @@
 }
 .rocket {
   position: absolute;
-  top: 30%;
-  right: -40%;
+  top: 40%;
+  right: -0%;
   z-index: -1;
   opacity: 0.5;
   animation: rocket ease-in-out 0.5s infinite alternate;
