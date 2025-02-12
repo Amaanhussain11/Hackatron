@@ -43,15 +43,7 @@ const Wihts = () => {
           </div>
         </div>
       </div>
-      <div className="aconst1">
-        <Image
-          src="/images/aconst5.svg"
-          alt="Hackatron const"
-          className="opaque8"
-          width={300}
-          height={300}
-        />
-      </div>
+     
       <div className="pattern2">
         <Image
           src="/images/pattern6.svg"
