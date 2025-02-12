@@ -12,7 +12,7 @@ const About = () => {
     >
       <div className="abbox">
         <h2 className="section-title">ABOUT US</h2>
-        <div className="paraDiv">
+        <div className="paraDiv ">
           {about.map((d) => (
             <React.Fragment key={d.id}>
               <p>{d.data}</p>

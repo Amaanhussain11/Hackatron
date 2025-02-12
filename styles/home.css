@@ -337,7 +337,10 @@ iframe button {
     right: 0%;
     width: 75px;
   }
-
+  .cost2 img {
+    width: 82%;
+  }
+  
   .cost1 {
     bottom: 17%;
     left: 5%;
@@ -346,9 +349,7 @@ iframe button {
   .cost1 img {
     width: 44%;
   }
-  .cost2 img {
-    width: 82%;
-  }
+  
 
   .Btn {
     width: 220px;

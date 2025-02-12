@@ -14,6 +14,11 @@ const buttonAnimation = keyframes`
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
 `;
+// const arrowani = keyframes`
+//     10%{
+//         transform: translateY(7px);
+//     }
+// `;
 
 // Color Palette for Theme Consistency
 export const titleWords = [
@@ -123,3 +128,13 @@ export const StyledButton = styled.button`
         font-size: 1.1rem;
     }
 `;
+
+export const cont = styled.div`
+    top: 5px;
+    left: 5px;
+    transform: translate(-5px, -5px);
+`;
+
+// export const imga=styled.img`
+//     animation : ${arrowani} 3s easse out infinite
+// `;
