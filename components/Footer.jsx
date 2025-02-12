@@ -40,25 +40,25 @@ const Footer = () => {
 
             <div className="social-links">
               <Link href="https://www.instagram.com/hnccbits/" target="_blank">
-              <i class="bi bi-instagram"></i>
+              <i className="bi bi-instagram"></i>
               </Link>
               <Link
                 href="https://www.linkedin.com/company/hnccbits/posts/?feedView=all"
                 target="_blank"
               >
-                <i class="bi bi-linkedin"></i>
+                <i className="bi bi-linkedin"></i>
               </Link>
               <Link href="https://x.com/hnccbits" target="_blank">
-              <i class="bi bi-twitter-x"></i>
+              <i className="bi bi-twitter-x"></i>
               </Link>
               <Link href="https://www.facebook.com/hnccbits/" target="_blank">
-              <i class="bi bi-facebook"></i>
+              <i className="bi bi-facebook"></i>
               </Link>
               <Link
                 href="https://www.youtube.com/@hackathonandcodingclubbits"
                 target="_blank"
               >
-              <i class="bi bi-youtube"></i>
+              <i className="bi bi-youtube"></i>
               </Link>
             </div>
           </div>
