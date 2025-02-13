@@ -3,6 +3,7 @@ import Layout from "../components/Layout";
 import Landing from "../components/Home/Landing";
 import Schedule from "../components/Schedule";
 import FAQS from "../components/FAQS";
+import PreviousProblem from "../components/PreviousYearProblem/index";
 import About from "../components/Home/About";
 import Wihts from "../components/Home/Wihts";
 import Journey from "../components/Home/Journey";
@@ -47,6 +48,7 @@ const index = () => {
       {/* <Organiser /> */}
       // <PastSpeakersNJudges />
       {/* <Team /> */}
+      <PreviousProblem/>
       <FAQS />
     </Layout>
   );
