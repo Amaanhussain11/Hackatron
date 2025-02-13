@@ -76,10 +76,12 @@
   background: none;
   outline: none;
   border: none;
+  text-shadow: 0px 0px 10px rgb(80, 3, 80), 0px 0px 10px rgb(80, 3, 80), 0px 0px 10px rgb(80, 3, 80), 0px 0px 10px rgb(80, 3, 80);
+  /* color: rgb(248, 192, 248); */
 }
 
 .faqs-section .container .question-box .question.active {
-  color: var(--primary-blue);
+  /* color: var(--primary-blue); */
 }
 
 .faqs-section .container .question-box .question.active::after {
@@ -114,6 +116,7 @@
   opacity: 1;
   transition: max-height 1000ms ease-in-out, margin-top 400ms ease-in-out,
     opacity 800ms ease-in-out;
+  color: rgb(241, 220, 255);
 }
 
 @media screen and (max-width: 800px) {

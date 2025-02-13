@@ -25,6 +25,7 @@
 @import "./speakers.css";
 @import "./Team.css";
 @import "./glimpse.css";
+@import "./GradientText.css";
 
 * {
   padding: 0;
@@ -60,3 +61,12 @@ a {
   text-decoration: none !important;
   color: inherit;
 }
+
+/* ::-webkit-scrollbar{
+  width: 15px;
+}
+
+::-webkit-scrollbar-track{
+  background: #d1e5ff;
+  ;
+} */
