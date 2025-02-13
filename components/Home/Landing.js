@@ -12,12 +12,7 @@ const Landing = () => {
       className="home"
       style={{ minHeight: "100vh", color: "#fff" }}
     >
-      <div className="cost1">
-        <img
-          src="/images/home/constellation1.png"
-          alt=""
-        />
-      </div>
+      
       <div className="logo-div">
         <div className="logo-home">
           {/* <Image
@@ -34,12 +29,7 @@ const Landing = () => {
 
         <LinksBtn />
       </div>
-      <div className="cost2">
-        <img
-          src="/images/home/constellation2.png"
-          alt=""
-        />
-      </div>
+      
     </section>
   );
 };
